@@ -1,0 +1,8 @@
+D:\PROJ\serialport-c#\serialport\serialport\bin\Debug\serialport.exe.config
+D:\PROJ\serialport-c#\serialport\serialport\bin\Debug\serialport.exe
+D:\PROJ\serialport-c#\serialport\serialport\bin\Debug\serialport.pdb
+D:\PROJ\serialport-c#\serialport\serialport\obj\Debug\serialport.Properties.Resources.resources
+D:\PROJ\serialport-c#\serialport\serialport\obj\Debug\serialport.csproj.GenerateResource.Cache
+D:\PROJ\serialport-c#\serialport\serialport\obj\Debug\serialport.exe
+D:\PROJ\serialport-c#\serialport\serialport\obj\Debug\serialport.pdb
+D:\PROJ\serialport-c#\serialport\serialport\obj\Debug\serialport.frmMain.resources
